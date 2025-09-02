@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SupersetDashboard</string>
+    <string name="button_open">Open Dashboard</string>
+    <string name="hint_base_url">Superset Base URL</string>
+    <string name="hint_dashboard_id">Dashboard UUID</string>
+    <string name="hint_user_id">User ID</string>
+    <string name="hint_tenant_id">Tenant ID</string>
+    <string name="hint_role">Role</string>
+</resources>
